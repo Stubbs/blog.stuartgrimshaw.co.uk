@@ -1,0 +1,15 @@
+---
+layout: post
+title: A Smart City is an Open City.
+date: '2013-10-14T12:50:55+01:00'
+tags: []
+tumblr_url: http://blog.stuartgrimshaw.co.uk/post/64011287018/a-smart-city-is-an-open-city
+---
+There’s a lot of talk at the moment about Smart Cities, Intelligent Towns and Inventive Villages (I made the last 2 up, but if there are any intelligent towns or inventive villages that want to use those terms, perhaps on a poster or website, feel free.) There are many things that make up a Smart City[1], but they all boil down to collecting data & using that data to make informed decisions about where to spend a limited budget. In it’s simplest form, that’s what it boils down to, and there are some cities in the UK having a good stab at being a smart city, Bristol, Manchester & Edinburgh.
+There’s an important ingredient that I think a lot of cities are missing in their attempts to become smarter, and that’s openness.
+"Some people want to fine tune a city like you do a race car but they are leaving citizens out of the process," said Anthony Townsend, director of the Institute of the Future and author of Smart Cities: Big Data, Civic Hackers, and the Quest for a New Utopia.
+Sheffield is dipping it’s toe in the water with it’s Open Data Sheffield[2] group which has had several fruitful meetings with the Council, and the council has provided more data to the group to help them grow & make a better contribution. I really hope the group continues to flourish because I don’t think councils provide enough data to citizens, not even close.
+To be a truly smart city you have to be an open city, you can’t have 1 small group of people deciding what data other people need to feel more involved. I’d release everything from traffic flow data to footfall data in libraries, leisure centers & community centers. Data on council tax arrears to where council tax is spent and how much it cost to replace those lamp posts. Some of this info might already be available, there’s certainly data.gov.uk but it only has a little over 10,000 sets of data and that’s from across the whole of local & national government, there are 21 data sets for Sheffield, and most of those are NHS related [3]
+Being open doesn’t just mean publishing data and sitting back brushing your hands … my work here is done. No, you need to be open to suggestions from citizens near and far, and when supported by good data you need to be willing to act on that data. If a local cycle group presents you with information on accidents in a particular area of the city you should be prepared to look at that area and address the reasons for the higher incidence of accidents and (again using data) come up with a proposal to remedy the situation. If a local resident uses the data you’ve published to show that their area gets an unusally small amount of money spent on it’s local schools then you need to be ready with data to make a change or correct them.
+An open city is a smart city.
+[1] https://en.wikipedia.org/wiki/Smart_city[2] https://twitter.com/opensheffield[3] http://data.gov.uk/data/search?q=Sheffield
