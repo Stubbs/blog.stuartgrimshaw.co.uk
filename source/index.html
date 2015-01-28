@@ -10,11 +10,13 @@ use:
 {% for post in page.pagination.items %}
     <article>
         <header>
-            <h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
+            <h2 class="post-title"><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
         </header>
-        <div>
-            {{ post.blocks.content|raw }}
+        <div class="post-preview">
+            {% set paragraphs = post.blocks.content|split("\n") %}
+            {{ paragraphs|first|raw }}
         </div>
+        <small><a href="{{ site.url }}{{ post.url }}">Read more</a></small>
         {% if post.meta.tags %}
             <p class="tags">
             Tags:
