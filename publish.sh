@@ -7,5 +7,5 @@
 sculpin generate --env=prod
 if [ $? -ne 0 ]; then echo "Could not generate the site"; exit 1; fi
 
-rsync -avzce 'ssh' output_prod/ settleup.co.uk:blog.stuartgrimshaw.co.uk/
+rsync -avzce 'ssh' output_prod/ settleup.co.uk:/srv/www/vhosts/blog.stuartgrimshaw.co.uk/
 if [ $? -ne 0 ]; then echo "Could not publish the site"; exit 1; fi
